@@ -4,6 +4,8 @@ This is a sample repository that shows how to integrate React Native with [ExNav
 
 It is connecting to this boilerplate code [graphql-dataloader-boilerplate](https://github.com/sibelius/graphql-dataloader-boilerplate)
 
+![alt tag](https://github.com/sibelius/ExNavRelay/blob/master/demo/demo.gif)
+
 ## Description
 - data folder contains schema(.json/.graphql) of your backend graphql server, it will be used by Relay to compile your Relay.QL queries to code.
 - plugins folder has babelRelayPlugin configuration, that tells to Relay with schema.json it should use to compile Relay.QL queries
